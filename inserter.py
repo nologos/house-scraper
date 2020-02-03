@@ -1,7 +1,7 @@
 import json
 import psycopg2
 import os
-
+__
 dumpJsonTableName = "zooplajsondump"
 
 # Me am SMART?
